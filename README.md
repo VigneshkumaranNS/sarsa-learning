@@ -97,17 +97,21 @@ def sarsa(env,
 
 ## OUTPUT:
 ### optimal policy, optimal value function 
-![image](https://github.com/user-attachments/assets/4be3c249-8972-4bef-8301-3998ecf8b3b1)
+<img src="https://github.com/user-attachments/assets/4be3c249-8972-4bef-8301-3998ecf8b3b1" width=50%>
+
 ### State value functions of Monte Carlo method:
-![image](https://github.com/user-attachments/assets/aecc39fc-611a-4013-b27b-2cd87d381972)
+<img src="https://github.com/user-attachments/assets/aecc39fc-611a-4013-b27b-2cd87d381972" width=50%>
+
 ### State value functions of Sarsa Method:
-![image](https://github.com/user-attachments/assets/40b73bc9-6358-49ee-a724-bbf63b433f20)
+<img src="https://github.com/user-attachments/assets/40b73bc9-6358-49ee-a724-bbf63b433f20" width=50%>
+
 ### plot for monte carlo function
-![image](https://github.com/user-attachments/assets/4084f65e-19c0-4c66-947c-1f12fa412eaa)
+<img src="https://github.com/user-attachments/assets/4084f65e-19c0-4c66-947c-1f12fa412eaa" width=50%>
+
 ### plot for Sarsa funtion
-![image](https://github.com/user-attachments/assets/9a67b0b3-566b-4c59-988c-1131c1187ecb)
+<img src="https://github.com/user-attachments/assets/9a67b0b3-566b-4c59-988c-1131c1187ecb" width=50%>
 
 
 ## RESULT:
 
-Write your result here
+Thus, SARSA learning successfully trained an agent for optimal policy.
