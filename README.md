@@ -1,4 +1,4 @@
-# SARSA Learning Algorithm
+![image](https://github.com/user-attachments/assets/645c9232-09f5-4c03-9912-582a9fab220c)# SARSA Learning Algorithm
 
 
 ## AIM
@@ -31,6 +31,9 @@ chance that it will stay in state S, and a 16.66% chance that it will move to st
 
 ### Rewards:
 The agent receives a reward of +1 for reaching the goal state (G). The agent receives a reward of 0 for all other states.
+
+## Graphical Representation:
+<img src="https://github.com/user-attachments/assets/6147a2d3-33fe-4017-9a90-7d49e645d8e5" width=50%>
 
 ## SARSA LEARNING ALGORITHM
 1. Initialize the Q-values arbitrarily for all state-action pairs.
