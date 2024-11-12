@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/645c9232-09f5-4c03-9912-582a9fab220c)# SARSA Learning Algorithm
-
-
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
 
